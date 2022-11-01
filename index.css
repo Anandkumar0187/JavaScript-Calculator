@@ -1,0 +1,22 @@
+body{
+    background-color: azure;
+}
+.calc{
+    margin-top: 100px;
+    margin-left: 30%;
+    width: 450px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+}
+.calc > h1{
+    text-align: center;
+}
+.screen{
+    margin-left: 17px;
+    width: 300px;
+}
+.button{
+    width: 100px;
+    
+}
